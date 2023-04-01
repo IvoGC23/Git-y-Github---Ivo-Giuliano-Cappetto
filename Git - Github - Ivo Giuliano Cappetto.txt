@@ -1,23 +1,35 @@
 Datos personales:
 
 Nombre: Ivo Giuliano Cappetto
-Edad: 18 años
-Profesión: Estudiante (recién ingresado a un terciario)
+Edad: 18 aÃ±os
+ProfesiÃ³n: Estudiante (reciÃ©n ingresado a un terciario)
 
 Transitando la instancia de ingreso:
 
-Me encuentro actualmente cursando en una escuela para el desarrollo de software y, hasta el momento, no he enfrentado dificultades significativas más allá de algunos problemas de ansiedad que he tenido.
+Me encuentro actualmente cursando en una escuela para el desarrollo de software y, hasta el momento, no he enfrentado dificultades significativas mÃ¡s allÃ¡ de algunos problemas de ansiedad que he tenido.
 
 Experiencias positivas:
 
-En cuanto a experiencias positivas, he logrado recordar conceptos clave sobre la comunicación, Git y GitHub, lo cual me ha resultado muy útil en mi proceso de aprendizaje. Además, he tenido una buena recepción por parte de los profesores, quienes se han mostrado muy dispuestos a atender nuestras consultas y a ayudarnos en todo lo que necesitamos.
+En cuanto a experiencias positivas, he logrado recordar conceptos clave sobre la comunicaciÃ³n, Git y GitHub, lo cual me ha resultado muy Ãºtil en mi proceso de aprendizaje. AdemÃ¡s, he tenido una buena recepciÃ³n por parte de los profesores, quienes se han mostrado muy dispuestos a atender nuestras consultas y a ayudarnos en todo lo que necesitamos.
 
-Obstáculos encontrados:
+ObstÃ¡culos encontrados:
 
-Sin embargo, debo admitir que he tenido algunas dificultades en el ámbito personal debido a problemas de ansiedad que me han afectado en algunas ocasiones. A pesar de esto, estoy trabajando activamente en superar estos obstáculos y no permitir que afecten mi rendimiento académico.
+Sin embargo, debo admitir que he tenido algunas dificultades en el Ã¡mbito personal debido a problemas de ansiedad que me han afectado en algunas ocasiones. A pesar de esto, estoy trabajando activamente en superar estos obstÃ¡culos y no permitir que afecten mi rendimiento acadÃ©mico.
 
-Comprensión lectora: se requiere de la habilidad para leer y comprender el texto presentado, para poder identificar la información relevante y responder a la pregunta planteada.
+Habilidades cognitivas:
 
-Pensamiento crítico: se necesita analizar la información presentada en el texto, identificar las diferentes ideas y conceptos, y evaluar su relevancia y aplicabilidad para responder a la pregunta.
+- ComprensiÃ³n lectora.
 
-Comunicación escrita: se requiere de la habilidad para expresar claramente las ideas y conceptos identificados, utilizando un lenguaje claro y coherente para presentar la respuesta de manera efectiva.
+- Memoria.
+
+- Razonamiento.
+
+Comandos utilizados: 
+
+git clone
+git status
+git config
+git commit
+git remote rm
+git remote add
+git push
